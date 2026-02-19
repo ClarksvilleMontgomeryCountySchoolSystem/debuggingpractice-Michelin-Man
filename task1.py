@@ -69,13 +69,13 @@ print(f"I attend {school_name}")
 
 # --- Snippet 13 ---
 # This should display a movie title
-movie_title = Inception
+movie_title = "Inception"
 print(f"My favorite movie is {movie_title}")
 
 # --- Snippet 14 ---
 # This should display a fruit
 fruit = "apple"
-print(f"I like to eat {frut}")
+print(f"I like to eat {fruit}")
 
 # --- Snippet 15 ---
 # This should display a sport
